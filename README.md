@@ -20,6 +20,8 @@
 
 将 `xuexitongDownloader.py `导入到pythonista3根目录下
 
+快捷指令`https://www.icloud.com/shortcuts/4ae494f653304d7ca66900597e520ac2`
+
 去网页源码查找objectid的值，复制到剪贴板，打开快捷指令，运行即可。
 
 # 后期优化
