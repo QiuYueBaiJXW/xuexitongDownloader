@@ -13,19 +13,15 @@
 
 2.学习通账号（废话）
 
-3.登录学习通的cookies（不细讲，善用搜索）
-
-4.能够查看网页源码的浏览器（iPad上我用的是alook（打钱））
+3.能够查看网页源码的浏览器（iPad上我用的是alook（打钱））
 
 # 使用方法
 --
 
 将 `xuexitongDownloader.py `导入到pythonista3根目录下
 
-把cookies粘贴到代码的headers中去
-
 去网页源码查找objectid的值，复制到剪贴板，打开快捷指令，运行即可。
 
 # 后期优化
 --
-接下来需要搞定的就是自动获取cookies，自动查找objectid，挖个坑。
+接下来需要搞定的就是自动爬取objectid，挖个坑。
