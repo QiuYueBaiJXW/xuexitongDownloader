@@ -19,7 +19,11 @@
 
 # 使用方法
 --
+
 将 `xuexitongDownloader.py `导入到pythonista3根目录下
+
+把cookies粘贴到代码的headers中去
+
 去网页源码查找objectid的值，复制到剪贴板，打开快捷指令，运行即可。
 
 # 后期优化
